@@ -1,5 +1,11 @@
 # vue-admin
+```
+    内容添加实现组件间通讯
+```
 
+![https://github.com/ioutput/vue-admin/tree/master/screenshot/1.png](https://github.com/ioutput/vue-admin/tree/master/screenshot/1.png)
+![https://github.com/ioutput/vue-admin/tree/master/screenshot/2.png](https://github.com/ioutput/vue-admin/tree/master/screenshot/2.png)
+![https://github.com/ioutput/vue-admin/tree/master/screenshot/3.png](https://github.com/ioutput/vue-admin/tree/master/screenshot/3.png)
 ## Project setup
 ```
 yarn install
